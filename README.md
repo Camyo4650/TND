@@ -19,9 +19,9 @@ Trench Combat
 Melee Combat
 - Theme can be medieval, with Light being swordsmen; Heavy being cavalrymen; Support being archers; and Command leading the brigade.
 
-*THESE WILL COME LATER*
-Aerial Combat
-Naval Combat
+*THESE WILL COME LATER*: 
+- Aerial Combat
+- Naval Combat
 
 Game Appearance:
 The world will be low poly, with procedural-terrain generation and general regulations on positioning of entities. Players will simply look like wooden mannequins.
