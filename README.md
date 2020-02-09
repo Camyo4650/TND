@@ -4,10 +4,10 @@ A game.
 The premise of the game is to be able to choose a class to play as. Players can then choose what mode of warfare they desire to play, ranging from dozens of styles. Scoring system will be based on flagpoints.
 
 Classes:
-Light
-Heavy
-Support
-Command
+- Light
+- Heavy
+- Support
+- Command
 
 There are several modes of warfare in the game.
 
